@@ -1,6 +1,8 @@
 ✅ Permalist – Your To-Do List Manager 📝
 ---
+
 Permalist is a lightweight to-do list application built with Node.js, Express, EJS, and SQL. It allows users to add, edit, and delete tasks with a clean and responsive interface. The app uses partials for a reusable header and footer, SVG icons for actions, and a persistent SQL database to ensure tasks are saved permanently.
+
 ---
 ## 📷 Gallery
 
